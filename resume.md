@@ -4,6 +4,8 @@ layout: default
 
 # Work History
 
+* * *
+
 This section is in reverse-chronological order, as normal. Note
 that there is an arc of starting as a chemical engineer, and moving
 slowly toward being a programmer.
@@ -72,6 +74,8 @@ as a data manager.
 
 # Engagement
 
+* * *
+
 ## Meetup Presentations
 
 I've given a few talks at meetups over the past few years. Among them
@@ -98,9 +102,8 @@ published, I asked them to rate me on rate my professor, and the ones that did
 gave me a 5/5. [Here is the link](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2720862)
 and some quotes from my students
 
-[Super friendly, kind, nice and caring. You can tell he truly loves what he does! Definitely recommend and take again.](https://www.ratemyprofessors.com/rating/35222252?utm_source=share&utm_medium=web&utm_campaign=prof_rating)
-
-[He has an uncanny ability to sense when your ADHD brain begins to zone out and immediately refocuses the class.](https://www.ratemyprofessors.com/rating/35209449?utm_source=share&utm_medium=web&utm_campaign=prof_rating)
+- Super friendly, kind, nice and caring. You can tell he truly loves what he does! Definitely recommend and take again. [(link)](https://www.ratemyprofessors.com/rating/35222252?utm_source=share&utm_medium=web&utm_campaign=prof_rating)
+- He has an uncanny ability to sense when your ADHD brain begins to zone out and immediately refocuses the class. [(link)](https://www.ratemyprofessors.com/rating/35209449?utm_source=share&utm_medium=web&utm_campaign=prof_rating)
 
 ### Pre-Calc at KU
 
@@ -140,6 +143,8 @@ give out samples, our manager always had me be the one working the
 tent to interact with potential customers.
 
 # Education
+
+* * *
 
 ## Chemical Engineering Bachelor's
 
