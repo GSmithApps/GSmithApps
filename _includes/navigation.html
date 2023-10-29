@@ -1,9 +1,9 @@
 <nav>
     <ul>
     {% for item in site.data.navigation %}
-        <li class="downloads"> <a href= {{ site.baseurl }}{{item.link}} 
-            {% if page.url == item.link%} style="color: white;" {%endif%}
-            {% if page.url != item.link%} style="color: black;" {%endif%}
+        <li class="grantnav"> <a href= {{ site.baseurl }}{{item.link}} 
+            {% if page.url == item.link%} {%endif%}
+            {% if page.url != item.link%} {%endif%}
         >{{item.name}}</a>
         </li>
     {%endfor%}
