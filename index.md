@@ -14,18 +14,6 @@ Professionally, I am a programmer, advocate, and
 teacher. I love programming, math, and science,
 and I like to use those things at work.
 
-# My Approach
-
-One thing I do is approach work like a programmer.
-For example, I like to use git, code, and markdown.
-
-I also like to record things so other people can
-use them in the future. For example, instead of
-sending an email or taking my own notes, I try
-to put them in some documentation so other people
-can use them.
-
-
 # Contact/Social
 
 - [LinkedIn](https://www.linkedin.com/in/grant-smith-895b64a4/)

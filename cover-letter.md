@@ -49,3 +49,18 @@ One other thing to mention is that I'm very interested in AI
 and large language models. I want to use them in my work,
 and I am on board with how helpful they can be. I personally
 use things like ChatGPT and GitHub CoPilot in my work.
+
+
+# My Approach
+
+One thing I do is approach work like a programmer.
+For example, I like to use git, code, and markdown.
+
+I also like to record things so other people can
+use them in the future. For example, instead of
+sending an email or taking my own notes, I try
+to put them in some documentation so other people
+can use them.  Continuing on this, I am an avid
+documenter and note taker, and my coworkers
+recognize and value it.
+
