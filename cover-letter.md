@@ -64,3 +64,7 @@ can use them.  Continuing on this, I am an avid
 documenter and note taker, and my coworkers
 recognize and value it.
 
+I am passionate about innovation. I'm always trying
+to use the best technologies I can find, and I'm
+always wanting to learn. I use ChatGPT and CoPilot
+extensively in my programming.
