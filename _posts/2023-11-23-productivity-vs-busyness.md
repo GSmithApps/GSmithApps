@@ -48,3 +48,12 @@ and none to maximize effectiveness, and this is
 why I'm always trying to be busy and work
 hard while also not being able to attribute any successes,
 but only failures to myself.
+
+**Antitode:** The antidote is to think ahead and
+figure out things that I want and would make me happy
+and would be kind to others, and do those things. Take
+a minute of my time and use it to think about how
+I really want to spend it -- look for ways to effectively
+make a difference or spend my time -- and do those things.
+Do things you actually like, and do things that are
+effective for others.
