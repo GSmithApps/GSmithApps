@@ -4,15 +4,17 @@ layout: default
 
 Hi, I'm Grant. Welcome to my site!
 
-I'm a 30 year old dude living in Lawrence Kansas.
+I'm a 30 year old rando living in Lawrence Kansas.
 
 I live in an apartment with my girlfriend Dhanya,
 and her/my cat, Samosa. I have two older brothers named
 Drew and Derek, and my parents are Audrey and David.
+I love them all very much, am so thankful for them,
+and I don't know what I'd do without them.
 
 Professionally, I am a programmer, advocate, and
-teacher. I love programming, math, and science,
-and I like to use those things at work.
+teacher. I love programming, math, science,
+philosophy, and everything in between.
 
 # Contact/Social
 
