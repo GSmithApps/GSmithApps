@@ -43,3 +43,33 @@ that I don't like, or don't come naturally to me.
 And maybe it makes me grow, but I think it stresses
 me out, and it's hard to grow when stressed. So I think
 maybe I could lean into it more.
+
+And to be clear, I'm not saying to never try to
+grow or try things that don't come easy to you.
+What I'm saying is that we need to find a balance,
+and that I know that I lean too far one way. I
+basically approach life as if anything can be
+changed or improved. And I think this creates a lot
+of pressure because it implies that everything
+*should* be changed. So I think I could benefit
+from seeing things as a little less improvable
+and a little more fixed. Again, that's just because
+I already see it as so strongly the other way.
+
+Some examples for me are that I seem to be a
+philosopher. I don't like it, and it isn't natual
+to me to like it, but I really seem to be. For
+example, I like making youtube videos to teach
+things, but when I do it, I find myself thinking
+about the meta problem, which is how to make
+videos. Then I start thinking about what it means
+to learn, and so on and so on. So I almost never
+can focus on any project because my natural
+tendency is to abstract and think about the nature
+of the thing instead of the project I'm working on.
+And the reason I don't like it is because I never
+seem to finish a project. But I guess this
+whole blog is an exercise in leaning into it
+because it is allowing me to think and write
+those thoughts and give me a channel for the
+thoughts. 
