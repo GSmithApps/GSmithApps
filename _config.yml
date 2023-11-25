@@ -3,5 +3,5 @@ description: A site to hold some of my things.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
-# baseurl: /GSmithApps # the subpath of your site, e.g., /blog
-# url: https://gsmithapps.github.io # the base hostname & protocol for your site
+baseurl: "/GSmithApps" # the subpath of your site, e.g., /blog
+url: "https://gsmithapps.github.io" # the base hostname & protocol for your site
