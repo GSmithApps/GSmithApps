@@ -2,21 +2,12 @@
 layout: default
 ---
 
-Hi, I'm Grant. Welcome to my site!
+Hi, I'm Grant. Welcome to my site, and thank you for being here!
 
-I'm a 30 year old rando living in Lawrence Kansas.
-
-I live in an apartment with my girlfriend Dhanya,
-and her/my cat, Samosa. I have two older brothers named
-Drew and Derek, and my parents are Audrey and David.
-I love them all very much, am so thankful for them,
-and I don't know what I'd do without them.
-
-Professionally, I am a programmer, advocate, and
-teacher. I love programming, math, science,
-philosophy, and everything in between.
-
-# Contact/Social
+I'm a 30 year old programmer/mathematician/teacher/advocate
+living in Lawrence Kansas.  My resume and cover letter are
+in the navigation bar, and my contact information and other
+sites are below.  Please do reach out -- Cheers!
 
 - [LinkedIn](https://www.linkedin.com/in/grant-smith-895b64a4/)
 - [YouTube](https://www.youtube.com/@grantsmith3653/featured)
@@ -25,12 +16,4 @@ philosophy, and everything in between.
 - [GeoGebra](https://www.geogebra.org/u/gsmithapples)
 - [Medium](https://medium.com/@14.gsmith.14)
 - `14 dot gsmith dot 14 at gmail`
-
-
-# Pic
-
-Dhanya and me:
-
-![](./assets/images/pro-pic.jpg)
-
 
