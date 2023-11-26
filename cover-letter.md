@@ -35,6 +35,20 @@ always wanting to learn. I use ChatGPT and CoPilot
 extensively in my programming, and I'm always
 looking for the next thing. 
 
+When teaching of developing curriculum or documentation,
+I have a few guiding principles. One of them, Grant Sanderson
+follows, which is to explain things so well that the
+audience feels like they could have discovered it. And
+I really like that one. Another is something Sal Khan
+does really well, but I'm not sure if he states it
+explicitly: make sure the audience can recreate what
+you're doing. This is why it's helpful when teachers
+do live coding or take the notes live. The audience can
+follow along and create the same thing as you go.
+I do this with my GeoGebra YouTube tutorials... I try
+to make them so the audience can follow along, build
+it themselves, and start to build their own
+tinkering and learning nature.
 
 
 # Full Time Vs Contract
@@ -77,4 +91,11 @@ students were looking for me the following year.
 And I have presented at various meetups and enjoyed it and
 got a lot of positive feedback from the other members in the
 groups.
+
+# My Heroes
+
+- Grant Sanderson
+- Sal Khan
+- Rich Hickey
+- Simon Peyton Jones
 
