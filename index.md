@@ -2,12 +2,12 @@
 layout: default
 ---
 
-Hi, I'm Grant. Welcome to my site, and thank you for being here!
+Hi, I'm Grant! Welcome to my site, and thank you for being here!
 
 I'm a 30 year old programmer/mathematician/teacher/advocate
 living in Lawrence Kansas.  My resume and cover letter are
 in the navigation bar, and my contact information and other
-sites are below.  Please do reach out -- Cheers!
+sites are below.  Please reach out -- Cheers!
 
 - [LinkedIn](https://www.linkedin.com/in/grant-smith-895b64a4/)
 - [YouTube](https://www.youtube.com/@grantsmith3653/featured)
