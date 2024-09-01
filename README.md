@@ -1,5 +1,5 @@
 Hi 👋, I’m Grant, welcome to my GitHub!
-My website is [here](https://gsmithapps.github.io/GSmithApps/).
+My resume site is [here](https://gsmithapps.github.io/GSmithApps/).
 
 
 
