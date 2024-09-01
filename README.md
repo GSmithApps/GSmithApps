@@ -1,4 +1,4 @@
-👋 Hi, I’m Grant, welcome to my GitHub! I'm happy to have you.
+👋 Hi, I’m Grant, welcome to my GitHub!
 🌐 My website is [here](https://gsmithapps.github.io/GSmithApps/)
 
 
