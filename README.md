@@ -21,7 +21,7 @@ the nix ecosystem. Here's
 a YouTube video in which I show how to start NixOS
 in a virtual machine. 
 
-[![Demo Video](nixos-thumbnail.jpg)](https://www.youtube.com/watch?v=cqwawmDEX8c)
+[![Demo Video](nix-YT-link.png)](https://www.youtube.com/watch?v=cqwawmDEX8c)
 
 And []() are my home manager configs
 
