@@ -38,7 +38,7 @@ code and publishing tools to share their work.  Specifically,
 it will take them from not much experience all the way
 to using Quarto.
 
-https://github.com/GSmithApps/getting-into-computers
+https://github.com/GSmithApps/zero-to-quarto
 
 ---
 
