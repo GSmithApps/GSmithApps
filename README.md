@@ -29,5 +29,6 @@ And [here](https://github.com/GSmithApps/home-manager-config) are my home manage
 
 ---
 
-My resume site is [here](https://github.com/GSmithApps/home-manager-config).
+My resume site is [here](https://github.com/GSmithApps/home-manager-config),
+but it's a little boring and unmaintained.
 
