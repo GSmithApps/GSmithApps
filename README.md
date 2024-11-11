@@ -7,7 +7,7 @@ Zero to Quarto, which shows scientific
 and research groups how to shift some
 of their workflows to code 👇👇👇.
 
-# CSV Aligner
+# [CSV Aligner](https://github.com/GSmithApps/csv-aligner)
 
 This is a VSCode extension that uses the inlay hints to
 render csvs as columns.
@@ -19,7 +19,7 @@ render csvs as columns.
 
 ![git](csv-aligner1.gif)
 
-# NixOS
+# NixOS ([Home Manager](https://github.com/GSmithApps/home-manager-config)), ([All Configs](https://github.com/GSmithApps/configs))
 
 I've recently been getting into
 the nix ecosystem. Here's
@@ -30,7 +30,7 @@ in a virtual machine.
 
 And [here](https://github.com/GSmithApps/home-manager-config) are my home manager configs.
 
-# Zero to Quarto
+# Zero to Quarto ([site](https://github.com/GSmithApps/zero-to-quarto-site)), ([slides](https://github.com/GSmithApps/zero-to-quarto))
 
 This is the beginning stage of a course that teaches
 researchers, engineers, and scientists how to use
