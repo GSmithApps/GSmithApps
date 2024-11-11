@@ -30,7 +30,7 @@ in a virtual machine.
 
 And [here](https://github.com/GSmithApps/home-manager-config) are my home manager configs.
 
-# Zero to Quarto ([site](https://github.com/GSmithApps/zero-to-quarto-site)), ([slides](https://github.com/GSmithApps/zero-to-quarto))
+# Zero to Quarto ([Site](https://github.com/GSmithApps/zero-to-quarto-site)), ([Slides](https://github.com/GSmithApps/zero-to-quarto))
 
 This is the beginning stage of a course that teaches
 researchers, engineers, and scientists how to use
@@ -38,7 +38,6 @@ code and publishing tools to share their work.  Specifically,
 it will take them from not much experience all the way
 to using Quarto.
 
-https://github.com/GSmithApps/zero-to-quarto-site
 
 ---
 
