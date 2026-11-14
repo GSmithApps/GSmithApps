@@ -17,7 +17,6 @@ render csvs as columns.
 
 ![](deleting-columns.gif)
 
-![git](csv-aligner1.gif)
 
 # NixOS ([Home Manager](https://github.com/GSmithApps/home-manager-config)), ([All Configs](https://github.com/GSmithApps/configs))
 
